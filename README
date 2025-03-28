@@ -1,10 +1,10 @@
 ## Ringer Repositories
 
-### [Repo 1](https://github.com/segun/ringer)
+### [Ringer Android](https://github.com/segun/ringer)
 This is the android app. You install it on an android device and plug it permanently to a power source, over time it will gather data about when their's power and when there's not.
 
-### [Repo 2](https://github.com/segun/ringer-server)
+### [Ringer Server](https://github.com/segun/ringer-server)
 This is the backend server. All the data gathered by the android app is sent to the server and the server stores them using instant db
 
-### [Repo 3](https://github.com/segun/ringer-dashboard)
+### [Ringer Dashboard](https://github.com/segun/ringer-dashboard)
 This is the dashboard, it allows you to see the data gathered in a user friendly way
